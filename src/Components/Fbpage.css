@@ -166,3 +166,16 @@ input::-webkit-inner-spin-button {
 input[type=number] {
     -moz-appearance: textfield;
 }
+
+.new-button{
+    padding: 16px !important;
+}
+
+.justify-content-end{
+    width: 104px !important;
+    margin: 10px;
+}
+
+.new-body{
+    padding: 20px;
+}
