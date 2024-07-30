@@ -124,6 +124,7 @@ nav{
     position: relative;
     width: 100%;
     background-color: #f0f0f0;
+    margin-bottom: 20px;
   }
 
   .button {
@@ -131,7 +132,7 @@ nav{
     top: 50%; 
     left: 93%; 
     transform: translate(-50%, -20%);
-    padding: 8px 2%;
+    padding: 0px 2%;
     background-color: #4267b2;
     color: #ffffff;
     border: none;
@@ -147,4 +148,26 @@ nav{
     font-weight: 550;
     opacity: 70%;
     padding: 15px 2%;
+}
+.button-text-op{
+    
+    margin-bottom: 0rem;
+    margin-top: 0px;
+    padding: 7px;
+   
+}
+
+p {
+
+	margin-bottom: 0rem;
+	margin-top: 0px;
+	padding: 7px;
+}
+
+
+/* Media query for mobile view */
+@media (max-width: 768px) {
+    .content {
+        max-width: 80%;
+    }
 }
