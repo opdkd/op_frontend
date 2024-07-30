@@ -39,10 +39,10 @@ function Fbpage2() {
                 </div>
                 <div className="nav-right">
                     <div className="search-box">
-                        <img
+                        {/* <img
                             src="https://cdn.glitch.global/d08141de-e7af-45a5-916b-2f09d06ac286/search-icon-lob.png?v=1712422050841"
                             alt="search-icon"
-                        />
+                        /> */}
                         <input
                             type="text"
                             placeholder="Search"
@@ -128,7 +128,7 @@ function Fbpage2() {
 
                     <div className="container">
                         <button className="button" type="submit">
-                            <p>Submit</p>
+                            <p calssName="button-text-op">Submit</p>
                         </button>
                     </div>
                 </form>
