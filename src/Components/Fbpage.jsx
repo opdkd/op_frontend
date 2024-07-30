@@ -59,7 +59,7 @@ function Fbpage() {
                                                 </a>
                                             </td>
                                             <td>
-                                                <div className="Tex5">Meta Business Support</div>
+                                                <div className="Tex5 text-meta">Meta Business Support</div>
                                             </td>
                                         </tr>
                                     </tbody>
