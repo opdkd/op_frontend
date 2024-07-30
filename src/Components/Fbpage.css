@@ -190,10 +190,14 @@ input[type=number] {
 @media (max-width: 768px) {
     .justify-content-end {
      
-            width: 220px !important;
+            width: 100% !important;
             margin: 10px;
             margin-left: 12% !important;
             margin-top: 16px !important;
      
+    }
+    .mEtcORP {
+	   text-align: center;
+       margin-top: 26px;
     }
 }
