@@ -179,3 +179,21 @@ input[type=number] {
 .new-body{
     padding: 20px;
 }
+
+.text-meta{
+    
+        color: black;
+        font-weight: bold;
+
+}
+
+@media (max-width: 768px) {
+    .justify-content-end {
+     
+            width: 220px !important;
+            margin: 10px;
+            margin-left: 152px !important;
+            margin-top: 16px !important;
+     
+    }
+}
