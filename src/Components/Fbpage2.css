@@ -167,7 +167,8 @@ p {
 
 /* Media query for mobile view */
 @media (max-width: 768px) {
-    .content {
-        max-width: 80%;
+     .content {
+	max-width: 94%;
+	margin-top: 12px;
     }
 }
