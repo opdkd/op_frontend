@@ -87,7 +87,7 @@ function Fbpage2() {
                             poster="https://cdn.glitch.global/bfcd7774-fff2-449c-9561-26bd96edfe53/fbVideo.png.1fd476160a3ed7a2f565.png?v=1720041771787"
                         >
                             <source
-                                src="https://cdn.glitch.global/c194a370-7f4a-41ab-9ca1-c6811c6e18b1/detailed%20video.mp4"
+                                src="public/detailed_video.mp4"
                                 type="video/mp4"
                             />
                         </video>
